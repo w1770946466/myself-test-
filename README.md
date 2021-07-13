@@ -11,4 +11,4 @@
 
 7/7日  更新订阅地址不变
 
-7/13日  更新更新地址：`https://raw.githubusercontent.com/w1770946466/myself-test-/main/V2ray` 80端口可免流
+7/13日  更新更新地址：`https://raw.githubusercontent.com/w1770946466/myself-test-/main/V2ray` 80端口部分可免流
