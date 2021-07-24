@@ -17,3 +17,5 @@
         要不然就不给你们玩喽！！   更新更新地址：`https://raw.githubusercontent.com/w1770946466/myself-test-/main/V2ray`
 
 7/18日  好多被折腾完了又重新添加了些地址不变
+
+7/24日   自建三个节点速度嘎嘎的
