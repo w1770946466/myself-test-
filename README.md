@@ -7,7 +7,7 @@
 |---|---
 |6/28日|更新|
 |6/29日|更新V2ray直接导入订阅url：`https://raw.githubusercontent.com/w1770946466/myself-test-/main/V2ray`
-每次更新直接更新订阅更方便|
+        每次更新直接更新订阅更方便|
 
 7/3日 更新
 
