@@ -15,3 +15,9 @@
 |7/24|自建三个节点速度嘎嘎的|
 |8/6|更新节点添加某vpn的节点经过筛选速度能在白天3m以上|
 |8/11|香港节点抓紧用喽！！马上到期了|
+
+
+###节点列表（方便单独导入的）：
+|节点名称|节点链接|
+|香港（推荐）|vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4ryIsDQogICJhZGQiOiAiNDMuMTMyLjI0MC44OSIsDQogICJwb3J0IjogIjUxNjU4IiwNCiAgImlkIjogImJiZmYzNDgyLWM4YWYtNGQ0ZC1iYzYyLTk5ODMwYTQwNzYxYyIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIm5vbmUiDQp9
+|
