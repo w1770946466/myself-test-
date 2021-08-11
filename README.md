@@ -6,8 +6,7 @@
 |更新日期|更新说明|
 |---|---
 |6/28|更新|
-|6/29|更新V2ray直接导入订阅url：`https://raw.githubusercontent.com/w1770946466/myself-test-/main/V2ray`  
-每次更新直接更新订阅更方便|
+|6/29|更新V2ray直接导入订阅url：`https://raw.githubusercontent.com/w1770946466/myself-test-/main/V2ray`  每次更新直接更新订阅更方便
 |7/3|更新|
 |7/7|更新订阅地址不变|
 |7/13|更新更新地址：`https://raw.githubusercontent.com/w1770946466/myself-test-/main/V2ray` 80端口部分可免流|
